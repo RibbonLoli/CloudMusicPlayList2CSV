@@ -13,6 +13,8 @@
 
 4、选中开发者工具中捕获到名为"detail?csrf_token=xxxx"的请求，右键-"copy"-"Copy response"
 
+![chrome](https://raw.githubusercontent.com/RibbonLoli/CloudmusicPlayList2CSV/master/assets/image/chrome.png)
+![firefox](https://raw.githubusercontent.com/RibbonLoli/CloudmusicPlayList2CSV/master/assets/image/firefox.png)
 5、将复制的请求粘贴到文本文件中保存（注意保存编码为UTF-8）
 
 6、打开CloudmusicPlayList2CSV工具，提示输入json文件路径，将上一步保存的文本文件拖入窗口即可自动填写路径。
